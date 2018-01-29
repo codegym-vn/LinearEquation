@@ -1,0 +1,7 @@
+D:\CodeGym-ThucHanh\Equation\Equation\bin\Debug\Equation.exe.config
+D:\CodeGym-ThucHanh\Equation\Equation\bin\Debug\Equation.exe
+D:\CodeGym-ThucHanh\Equation\Equation\bin\Debug\Equation.pdb
+D:\CodeGym-ThucHanh\Equation\Equation\obj\Debug\Equation.csprojResolveAssemblyReference.cache
+D:\CodeGym-ThucHanh\Equation\Equation\obj\Debug\Equation.csproj.CoreCompileInputs.cache
+D:\CodeGym-ThucHanh\Equation\Equation\obj\Debug\Equation.exe
+D:\CodeGym-ThucHanh\Equation\Equation\obj\Debug\Equation.pdb
